@@ -23,16 +23,18 @@ Ensure you have [Node.js](https://nodejs.org/) installed on your machine.
 ### 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/ar-vr-spatial-audio-room.git
+ ```
+### 2. Navigate to the project directory:
+   ```bash
    cd ar-vr-spatial-audio-room
  ```
-
-### 2. Install the necessary dependencies:
+### 3. Install the necessary dependencies:
 ```bash
 npm install
 ```
-### 3. Start a local server:
+### 4. Start a local server:
 ```bash
 http-server .
 ```
 
-### 4. Open your browser and navigate to http://127.0.0.1:8080.
+### 5. Open your browser and navigate to http://127.0.0.1:8080.
