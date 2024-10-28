@@ -16,7 +16,7 @@ The AR/VR Spatial Audio Room is a 3D environment built using Three.js, designed 
 - **WebGL**: A JavaScript API for rendering 2D and 3D graphics in the browser.
 - **HTML/CSS**: Markup and styling for the application.
 
-### Prerequisites
+## Prerequisites
 Ensure you have [Node.js](https://nodejs.org/) installed on your machine.
 
 ## Installation
